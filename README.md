@@ -1,2 +1,3 @@
 # 5-laba-repo-Kravchenko
-14 Iot-Kravchenko Oleksandr
+Home work: Github 
+Iot 14 - Kravchenko Oleksandr 
