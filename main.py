@@ -87,7 +87,7 @@ def main():
     fish4 = Fish("Баблз", 3, "Кульчастий риба", 1, "Кільчасті", True, 1.5)
     fish5 = Fish("Фугу", 1.5, "Морська риба", 1.3, "Листя", False, 0.8)
     fish6 = Fish("Піранья", 3, "Косар", 1, "М'ясо", True, 1)
-    fish7 = Fish("dfjsdkf", 4, "Морська риба", 1.7, "Листя", False, 1)
+    fish7 = Fish("Сом", 4, "Морська риба", 1.7, "Листя", False, 1)
 
     aquarium2.add_fish(fish4)
     aquarium2.add_fish(fish5)
